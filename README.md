@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Atharv!</h1>
-<h4 align="center"> I'm a high school student passionate about robotics, programming, and technology. I love working with new technologies all the time, especially with various APIs like Discord and Gemini, and am constantly learning something about computer science to help create better solutions. </h4>
+<p align="center"> I'm a high school student passionate about robotics, programming, and technology. I love working with new technologies all the time, especially with various APIs like Discord and Gemini, and am constantly learning something about computer science to help create better solutions. </p>
 
 <h1 align="center">🔧 Skills</h1>
 
