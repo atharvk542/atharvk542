@@ -18,4 +18,7 @@
 </p>
 
 <h2 align="center">📫 Connect With Me!</h2>
-<p align="center">atharv.kanchi@gmail.com || akanchi@imsa.edu</p>
+<p align="center">
+  <a href="mailto:atharv.kanchi@gmail.com">atharv.kanchi@gmail.com</a> | 
+  <a href="mailto:akanchi@imsa.edu">akanchi@imsa.edu</a>
+</p>
