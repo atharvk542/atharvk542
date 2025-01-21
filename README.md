@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h2>📊GitHub Stats</h2>
-  <p align="center">
+  <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Languages" />
     </a>
