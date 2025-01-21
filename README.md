@@ -24,3 +24,8 @@
     </a>
   </p>
 <h2 align="center">📫 Connect With Me!</h2>
+
+<h3 align="center" style="font-size: 16"><strong>
+  <a href="mailto:atharv.kanchi@gmail.com" style="font-size: 16">atharv.kanchi@gmail.com</a> | 
+  <a href="mailto:akanchi@imsa.edu">akanchi@imsa.edu</a>
+</h3>
