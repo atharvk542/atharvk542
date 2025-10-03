@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Atharv!</h1>
-<p align="center"> I'm a high school student passionate about computer science, particularly quantum computing and its real-world applications. </p>
+<p align="center"> I'm a high school student who likes coding, especially quantum computing and what it can do. </p>
 
 <h2>🔧 Technologies </h2>
 
@@ -16,13 +16,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2>📊GitHub Stats</h2>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Languages" />
-    </a>
-  </p>
-<h2>📫 Connect With Me!</h2>
+<h2>📫 Contact Me</h2>
 
 <h3><strong>
   <a href="mailto:atharv.kanchi@gmail.com" style="font-size: 16">atharv.kanchi@gmail.com</a> | 
