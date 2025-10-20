@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Atharv!</h1>
-<p align="center"> I'm a high school student who likes coding, especially quantum computing and what it can do. </p>
+<p align="center"> I'm a high school student who likes to code, especially with quantum computing and mathematical modeling. </p>
 
-<h2>🔧 Technologies </h2>
+<h2>Technologies </h2>
 
 <!-- Skill icons from https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#usage -->
 
@@ -16,7 +16,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2>📫 Contact Me</h2>
+<h2>Contact Me</h2>
 
 <h3><strong>
   <a href="mailto:atharv.kanchi@gmail.com" style="font-size: 16">atharv.kanchi@gmail.com</a> | 
